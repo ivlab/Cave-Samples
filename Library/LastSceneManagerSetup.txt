@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/MinVR3/0.1.0/CavePainting-Lite/CavePainting-Lite.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

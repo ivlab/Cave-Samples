@@ -1,0 +1,4 @@
+apiRules:
+- include:
+    uidRegex: ^IVLab\.MinVR3
+    type: Namespace
