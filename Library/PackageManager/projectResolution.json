@@ -88,6 +88,16 @@
       "source": "git",
       "testable": false
     },
+    "edu.umn.cs.ivlab.minvr3.spout@git@github.com:ivlab/MinVR3Plugin-Spout.git": {
+      "name": "edu.umn.cs.ivlab.minvr3.spout",
+      "displayName": "MinVR3 Plugin: Spout",
+      "resolvedPath": "C:\\Users\\Giselle\\Cave Samples\\Library\\PackageCache\\edu.umn.cs.ivlab.minvr3.spout@b38ba7a9fa66",
+      "fingerprint": "b38ba7a9fa66ac230ce376750125e50006054c22",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "0.1.0",
+      "source": "git",
+      "testable": false
+    },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "displayName": "Accessibility",

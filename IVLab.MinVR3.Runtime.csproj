@@ -78,8 +78,8 @@
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Cluster\SerializationSurrogates.cs" />
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Display\CameraRigSettings.cs" />
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Input\Devices\TouchSensel.cs" />
-    <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Input\UnityToMinVR\UnityXR.cs" />
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Events\VREventCallbackAny.cs" />
+    <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Input\UnityToMinVR\UnityXR.cs" />
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Connection\VREventConnectionReceiver.cs" />
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Interaction\UniCam.cs" />
     <Compile Include="Library\PackageCache\edu.umn.cs.ivlab.minvr3@dd494081c2f2\Runtime\Scripts\Connection\IVREventConnection.cs" />

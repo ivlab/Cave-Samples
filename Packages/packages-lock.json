@@ -140,6 +140,13 @@
       "dependencies": {},
       "hash": "dd494081c2f219f64fc00d3ca581d6a447f673a4"
     },
+    "edu.umn.cs.ivlab.minvr3.spout": {
+      "version": "git@github.com:ivlab/MinVR3Plugin-Spout.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b38ba7a9fa66ac230ce376750125e50006054c22"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

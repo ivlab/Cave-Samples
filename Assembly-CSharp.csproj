@@ -52,6 +52,7 @@
     <Compile Include="Assets\Samples\MinVR3 Plugin_ Spout\0.1.0\Spout QuadBuffered Stereo\Sample1.cs" />
     <Compile Include="Assets\Samples\MinVR3\0.1.0\CavePainting-Lite\BrushResizerUI.cs" />
     <Compile Include="Assets\Samples\MinVR3\0.1.0\CavePainting-Lite\MainPaintingAndReframingUI.cs" />
+    <Compile Include="Assets\Samples\MinVR3 Plugin_ Spout\0.1.0\Spout Sender Sample\Sample1.cs" />
     <Compile Include="Assets\Samples\MinVR3\0.1.0\CavePainting-Lite\MainMenu.cs" />
     <Compile Include="Assets\Samples\MinVR3\0.1.0\CavePainting-Lite\Artwork.cs" />
   </ItemGroup>
@@ -1132,9 +1133,11 @@
     <ProjectReference Include="Unity.Multiplayer.Center.Editor.csproj" />
     <ProjectReference Include="IVLab.MinVR3.Runtime.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj" />
+    <ProjectReference Include="IVLab.MinVR3.Spout.Runtime.csproj" />
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Core.csproj" />
     <ProjectReference Include="Unity.VisualScripting.State.csproj" />
+    <ProjectReference Include="IVLab.MinVR3.Spout.Editor.csproj" />
     <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj" />
     <ProjectReference Include="Unity.InputSystem.csproj" />
     <ProjectReference Include="Unity.Rider.Editor.csproj" />
