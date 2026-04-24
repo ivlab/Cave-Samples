@@ -3,7 +3,7 @@ using UnityEngine;
 /// <summary>
 /// Dummy script included so there is something to include in this assembly.
 /// </summary>
-public class Sample1 : MonoBehaviour
+public class SpoutSenderSample1 : MonoBehaviour
 {
     static void HelloWorld()
     {

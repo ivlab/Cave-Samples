@@ -436,11 +436,12 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.6f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.6f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Samples/MinVR3 Plugin_ Spout/0.1.0/Spout QuadBuffered Stereo/Sample1.cs"
-"Assets/Samples/MinVR3 Plugin_ Spout/0.1.0/Spout Sender Sample/Sample1.cs"
+"Assets/Samples/MinVR3 Plugin_ Spout/0.1.0/Spout Sender Sample/SpoutSenderSample1.cs"
 "Assets/Samples/MinVR3/0.1.0/CavePainting-Lite/Artwork.cs"
 "Assets/Samples/MinVR3/0.1.0/CavePainting-Lite/BrushResizerUI.cs"
 "Assets/Samples/MinVR3/0.1.0/CavePainting-Lite/MainMenu.cs"
 "Assets/Samples/MinVR3/0.1.0/CavePainting-Lite/MainPaintingAndReframingUI.cs"
+"Assets/Scripts/SpotlightRevealController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
