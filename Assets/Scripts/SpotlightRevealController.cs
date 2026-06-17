@@ -16,8 +16,10 @@ public class SpotlightRevealController : MonoBehaviour
         if (graffitiRenderer == null)
             graffitiRenderer = GetComponent<Renderer>();
 
-        if (graffitiRenderer != null)
-            graffitiMaterial = graffitiRenderer.material;
+        // if (graffitiRenderer != null)
+        //     graffitiMaterial = graffitiRenderer.material;
+        
+        graffitiMaterial = graffitiRenderer.material;
     }
 
     void LateUpdate()
