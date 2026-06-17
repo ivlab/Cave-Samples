@@ -26,6 +26,7 @@ public class SpotlightRevealController : MonoBehaviour
             return;
 
         graffitiMaterial.SetVector("_LightPos", spotLight.transform.position);
+        Debug.Log(spotLight.transform.position);
         graffitiMaterial.SetVector("_LightDir", spotLight.transform.forward);
 
         graffitiMaterial.SetFloat("_SpotAngle", spotLight.spotAngle);
