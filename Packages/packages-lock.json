@@ -134,28 +134,32 @@
       "url": "https://packages.unity.com"
     },
     "edu.umn.cs.ivlab.minvr3": {
-      "version": "file:C:/Users/vrdemo/Downloads/MinVR3-UnityPackage-main/MinVR3-UnityPackage-main",
+      "version": "git@github.com:ivlab/MinVR3-UnityPackage.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "dd494081c2f219f64fc00d3ca581d6a447f673a4"
     },
     "edu.umn.cs.ivlab.minvr3.spout": {
-      "version": "file:C:/Users/vrdemo/Downloads/MinVR3Plugin-Spout-main/MinVR3Plugin-Spout-main",
+      "version": "git@github.com:ivlab/MinVR3Plugin-Spout.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "b38ba7a9fa66ac230ce376750125e50006054c22"
     },
     "edu.umn.cs.ivlab.minvr3.vrpn": {
-      "version": "file:C:/Users/vrdemo/Downloads/MinVR3Plugin-VRPN-main/MinVR3Plugin-VRPN-main",
+      "version": "git@github.com:ivlab/MinVR3Plugin-VRPN.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "055cfb990964bb6b7f0c6026e16e71bedf397989"
     },
     "edu.umn.cs.ivlab.template": {
-      "version": "file:C:/Users/vrdemo/Downloads/MinVR3Plugin-VRPNExperimental-main/MinVR3Plugin-VRPNExperimental-main",
+      "version": "git@github.com:ivlab/MinVR3Plugin-VRPNExperimental.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "e5315d61421fab372ece7a2742b197d339fab0f7"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
